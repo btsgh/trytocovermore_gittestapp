@@ -1,0 +1,47 @@
+{
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 469,
+  "boxShadow": "none",
+  "displayName": "Camera",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "flexVerticalAlignment": "start",
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.c18f801ae183dba33c7a61ea80204a5d.svg",
+  "isCanvas": false,
+  "isDeprecated": false,
+  "isDisabled": false,
+  "isLoading": false,
+  "isMirrored": true,
+  "isVisible": true,
+  "key": "3uxf77m511",
+  "leftColumn": 37,
+  "mobileBottomRow": 469,
+  "mobileLeftColumn": 29,
+  "mobileRightColumn": 54,
+  "mobileTopRow": 436,
+  "mode": "CAMERA",
+  "originalBottomRow": 469,
+  "originalTopRow": 436,
+  "parentColumnSpace": 11.78125,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "hug",
+  "rightColumn": 62,
+  "searchTags": [
+    "photo",
+    "video recorder"
+  ],
+  "tags": [
+    "External"
+  ],
+  "topRow": 436,
+  "type": "CAMERA_WIDGET",
+  "version": 1,
+  "widgetId": "z1e61jd2u0",
+  "widgetName": "Camera1"
+}

@@ -1,0 +1,10 @@
+INSERT INTO public."Habitasaurus_Habits" (
+	"id",
+	"Habitname",
+	"Image",
+	"Status21")
+VALUES (
+	'{{insert_form.formData.id}}',
+	'{{insert_form.formData.Habitname}}',
+	'{{insert_form.formData.Image}}',
+	'{{insert_form.formData.Status21}}');

@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "66cf11d98831013db20842e4_7216e139-a1b5-4c3b-927d-652c9e79eae1",
+  "id": "Postgres_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Postgres",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}

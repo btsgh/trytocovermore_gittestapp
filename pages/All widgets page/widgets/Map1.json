@@ -1,0 +1,62 @@
+{
+  "allowZoom": true,
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 454,
+  "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+  "defaultMarkers": [
+    {
+      "lat": 25.122,
+      "long": 50.132,
+      "title": "Location1"
+    }
+  ],
+  "displayName": "Map",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "boxShadow"
+    }
+  ],
+  "enableMapTypeControl": false,
+  "enablePickLocation": true,
+  "enableSearch": true,
+  "flexVerticalAlignment": "start",
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.5d50414980b866c69864af79042fa1f9.svg",
+  "isClickedMarkerCentered": true,
+  "isDeprecated": false,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "lmovls6tbv",
+  "leftColumn": 0,
+  "mapCenter": {
+    "lat": 25.122,
+    "long": 50.132
+  },
+  "minWidth": 450,
+  "mobileBottomRow": 454,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 23,
+  "mobileTopRow": 414,
+  "originalBottomRow": 454,
+  "originalTopRow": 414,
+  "parentColumnSpace": 11.78125,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 37,
+  "tags": [
+    "Content"
+  ],
+  "topRow": 414,
+  "type": "MAP_WIDGET",
+  "version": 1,
+  "widgetId": "ossxvvea3q",
+  "widgetName": "Map1",
+  "zoomLevel": 50
+}

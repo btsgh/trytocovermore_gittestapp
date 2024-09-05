@@ -1,0 +1,36 @@
+{
+  "bottomRow": 187,
+  "displayName": "Custom Widget [alpha]",
+  "dynamicBindingPathList": [],
+  "events": [],
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.40a2473c10fb05e12d26d6bbd4b891fa.svg",
+  "isCanvas": false,
+  "isDeprecated": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "hz9dwz7p23",
+  "leftColumn": 0,
+  "mobileBottomRow": 187,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 46,
+  "mobileTopRow": 137,
+  "parentColumnSpace": 11.78125,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 46,
+  "srcDoc": {
+    "css": "/* you can access your string properties of your model using `var(--appsmith-model-<property-name>)`*/",
+    "html": "<!-- no need to write html, head, body tags, it is handled by the widget -->",
+    "js": "// no need to write window onLoad, it is handled by the widget"
+  },
+  "tags": [
+    "Display"
+  ],
+  "topRow": 137,
+  "type": "EXTERNAL_WIDGET",
+  "version": 1,
+  "widgetId": "wv9xi7znhv",
+  "widgetName": "CustomWidget1"
+}

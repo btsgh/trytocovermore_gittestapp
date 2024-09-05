@@ -1,0 +1,2 @@
+DELETE FROM Detail
+  WHERE ID = {{data_table.triggeredRow.ID}};

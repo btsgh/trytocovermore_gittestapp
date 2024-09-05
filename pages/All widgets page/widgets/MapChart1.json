@@ -1,0 +1,97 @@
+{
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 261,
+  "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+  "colorRange": [
+    {
+      "code": "#FFD74D",
+      "maxValue": 1,
+      "minValue": 0.5
+    },
+    {
+      "code": "#FB8C00",
+      "maxValue": 2,
+      "minValue": 1
+    },
+    {
+      "code": "#E65100",
+      "maxValue": 3,
+      "minValue": 2
+    }
+  ],
+  "data": [
+    {
+      "id": "NA",
+      "value": ".82"
+    },
+    {
+      "id": "SA",
+      "value": "2.04"
+    },
+    {
+      "id": "AS",
+      "value": "1.78"
+    },
+    {
+      "id": "EU",
+      "value": ".40"
+    },
+    {
+      "id": "AF",
+      "value": "2.58"
+    },
+    {
+      "id": "AU",
+      "value": "1.30"
+    }
+  ],
+  "displayName": "Map Chart",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "boxShadow"
+    },
+    {
+      "key": "fontFamily"
+    }
+  ],
+  "flexVerticalAlignment": "start",
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+  "hideCard": false,
+  "iconSVG": "/static/media/icon.8676a101f7a7b525c93961a5fc154938.svg",
+  "isCanvas": false,
+  "isDeprecated": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "xg1szxf1kb",
+  "leftColumn": 0,
+  "mapTitle": "Global Population",
+  "mapType": "WORLD",
+  "minWidth": 450,
+  "mobileBottomRow": 261,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 13,
+  "mobileTopRow": 229,
+  "parentColumnSpace": 11.78125,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 13,
+  "searchTags": [
+    "graph",
+    "visuals",
+    "visualisations"
+  ],
+  "showLabels": true,
+  "tags": [
+    "Display"
+  ],
+  "topRow": 229,
+  "type": "MAP_CHART_WIDGET",
+  "version": 1,
+  "widgetId": "dz5jq7ho4v",
+  "widgetName": "MapChart1"
+}

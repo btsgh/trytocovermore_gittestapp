@@ -1,0 +1,14 @@
+INSERT INTO Detail (
+	ID,
+	NAME,
+	AGE,
+	ADDRESS,
+	SALARY,
+	last_login)
+VALUES (
+	'{{insert_form.formData.ID}}',
+	'{{insert_form.formData.NAME}}',
+	'{{insert_form.formData.AGE}}',
+	'{{insert_form.formData.ADDRESS}}',
+	'{{insert_form.formData.SALARY}}',
+	'{{insert_form.formData.last_login}}');

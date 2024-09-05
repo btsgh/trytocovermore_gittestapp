@@ -1,0 +1,5 @@
+UPDATE public."Habitasaurus_Habits" SET
+		"Habitname" = '{{update_form.fieldState.Habitname.isVisible ? update_form.formData.Habitname : update_form.sourceData.Habitname}}',
+		"Image" = '{{update_form.fieldState.Image.isVisible ? update_form.formData.Image : update_form.sourceData.Image}}',
+    "Status21" = '{{update_form.fieldState.Status21.isVisible ? update_form.formData.Status21 : update_form.sourceData.Status21}}'
+WHERE "id" = {{data_table.selectedRow.id}};

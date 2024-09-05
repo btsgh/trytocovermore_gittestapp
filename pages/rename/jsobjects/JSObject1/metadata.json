@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "66cf11d98831013db20842e4_672ecb2f-9940-40b5-9297-f732083111f2",
+  "id": "rename_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "rename",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}

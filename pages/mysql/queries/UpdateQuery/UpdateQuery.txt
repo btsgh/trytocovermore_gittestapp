@@ -1,0 +1,7 @@
+UPDATE Detail SET
+		NAME = '{{update_form.fieldState.NAME.isVisible ? update_form.formData.NAME : update_form.sourceData.NAME}}',
+		AGE = '{{update_form.fieldState.AGE.isVisible ? update_form.formData.AGE : update_form.sourceData.AGE}}',
+    ADDRESS = '{{update_form.fieldState.ADDRESS.isVisible ? update_form.formData.ADDRESS : update_form.sourceData.ADDRESS}}',
+		SALARY = '{{update_form.fieldState.SALARY.isVisible ? update_form.formData.SALARY : update_form.sourceData.SALARY}}',
+		last_login = '{{update_form.fieldState.last_login.isVisible ? update_form.formData.last_login : update_form.sourceData.last_login}}'
+WHERE ID = {{data_table.selectedRow.ID}};
